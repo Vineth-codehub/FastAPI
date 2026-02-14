@@ -100,3 +100,7 @@ frontend/build/
 
 # macOS
 .DS_Store
+
+# Local archive created for transfer
+FastAPI_files.zip
+
